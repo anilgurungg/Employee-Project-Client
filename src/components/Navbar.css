@@ -1,0 +1,7 @@
+/* .active-link {
+    background-color: #fcf6f6; Set your desired active link background color
+    color: #000000; Set your desired active link text color
+  } */
+&:active {
+    background-color: #334252
+}
